@@ -27,6 +27,3 @@ FIRST Download
 Admin
 user: admin
 pass: admin123
-
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
