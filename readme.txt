@@ -1,5 +1,3 @@
-Free Download Source Code "Movie Seat Reservation System"
-
 FIRST Download
 
 1.XAMPP
